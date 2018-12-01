@@ -3,7 +3,7 @@
 int main()
 {
 	int a;
-	a = 5;	
+	a = 50;	
 	printf("Hello World!");
 	return 0;
 }
